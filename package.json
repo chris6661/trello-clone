@@ -2,6 +2,7 @@
   "dependencies": {
     "apollo-server": "^3.10.0",
     "apollo-server-express": "^3.10.0",
+    "create-react-app": "^5.0.1",
     "express": "^4.18.1",
     "lodash": "^4.17.21",
     "mongoose": "^6.5.2"
